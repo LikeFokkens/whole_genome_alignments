@@ -1,8 +1,6 @@
 PATH_MUMMER       = '/Applications/MUMmer3.23/'
 
-'''nice /Applications/MUMmer3.23/nucmer --maxmatch -p /Users/like/Shermineh/align_putative_centromeres/1361_lane7-index16.mapped2.Fol007.ordered4fol2.CenH3_regions__rseg.NUCMER 
-/Users/like/Shermineh/align_putative_centromeres/1361_lane7-index16.mapped2.Fol007.ordered4fol2.CenH3_regions__rseg.fasta  /Users/like/Shermineh/align_putative_centromeres/1361_lane7-index16.mapped2.Fol007.ordered4fol2.CenH3_regions__rseg.fasta >& /Users/like/Shermineh/align_putative_centromeres/1361_lane7-index16.mapped2.Fol007.ordered4fol2.CenH3_regions__rseg.NUCMER.nucmer_log
-'''
+
 import glob, os, sys, time
 # import tools sets:
 # get path of this script, assume tools are in directory 'tools/' in the parent directory of this code
